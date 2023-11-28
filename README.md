@@ -1,6 +1,6 @@
-# more_container_practice
+# SADC NEWSPAPERS APPLICATION
 
-SADC Newspaper Project.
+SADC Newspapers Project.
 
 ## Getting Started
 
